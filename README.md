@@ -2,15 +2,15 @@ A FUN Wi-Fi-controlled ESP-32 robot project intended to develop skills in CAD, l
 as well as to build general knowledge of devices such as amplifiers and servo motors.
 
 MILESTONES: 
-Nov 25th
+Nov 25th-
 Come up with a CAD for robot chassis
 Figure out a basic circuit outline (Power, space, etc.)
 
-Feb 17th
+Feb 17th-
 Circuit is done (Assuming we have all the materials by then)
 Adjust CAD as needed and laser cut chassis
 Web server is complete
 
-May 26th
+May 26th-
 All code is finished
 Project is assembled in time for showcase
